@@ -2,14 +2,7 @@
 
 News Blog is a blog focused on the Indian Financial sector and Indian Fintech startup news. India's financial sector has been one of the fastest growing sectors in the economy. The economy has witnessed increased private sector activity including an explosion of foreign banks, insurance companies, mutual funds, venture capital and investment institutions.The Indain Fintech startup has also been on a rapid increase and many of the startups are on the verge of becoming a unicorn. So News Blog provides us the latest news about the Indian Financial and Fintech startup sector.  
 ## Preview
-
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-clean-blog/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-clean-blog.svg)](https://www.npmjs.com/package/startbootstrap-clean-blog)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-clean-blog.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-clean-blog)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-clean-blog/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-clean-blog)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-clean-blog/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-clean-blog?type=dev)
+[![Clean Blog Preview](https://assets.startbootstrap.com/img/screenshots/themes/clean-blog.png)]
 
 ## Download and Installation
 
