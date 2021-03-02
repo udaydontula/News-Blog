@@ -2,7 +2,7 @@
 
 News Blog is a blog focused on the Indian Financial sector and Indian Fintech startup news. India's financial sector has been one of the fastest growing sectors in the economy. The economy has witnessed increased private sector activity including an explosion of foreign banks, insurance companies, mutual funds, venture capital and investment institutions.The Indain Fintech startup has also been on a rapid increase and many of the startups are on the verge of becoming a unicorn. So News Blog provides us the latest news about the Indian Financial and Fintech startup sector.  
 ## Preview
-[![Clean Blog Preview](https://assets.startbootstrap.com/img/screenshots/themes/clean-blog.png)]
+![Clean Blog Preview](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftimestsw.com%2Fpartners%2Fiim-calcutta%2F&psig=AOvVaw3aohYXMahUGd4I_0pJOZHk&ust=1614758958154000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjHu4SUke8CFQAAAAAdAAAAABAD)
 
 ## Download and Installation
 
