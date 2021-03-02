@@ -1,13 +1,8 @@
-# [Start Bootstrap - Clean Blog](https://startbootstrap.com/theme/clean-blog/)
+# [News-Blog]
 
-[Clean Blog](https://startbootstrap.com/theme/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
-
+[News Blog] is a blog focused on the Indian Financial sector and Indian Fintech startup news. India's financial sector has been one of the fastest growing sectors in the economy. The economy has witnessed increased private sector activity including an explosion of foreign banks, insurance companies, mutual funds, venture capital and investment institutions.The Indain Fintech startup has also been on a rapid increase and many of the startups are on the verge of becoming a unicorn. So [News Blog] provides us the latest news about the Indian Financial and Fintech startup sector.  
 ## Preview
-
-[![Clean Blog Preview](https://assets.startbootstrap.com/img/screenshots/themes/clean-blog.png)](https://startbootstrap.github.io/startbootstrap-clean-blog/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-clean-blog/)**
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.talkwalker.com%2Fblog%2Fwhat-is-image-analysis&psig=AOvVaw1HFOL_RMXNiNnocbw0oNHN&ust=1614758408011000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKimhf2Rke8CFQAAAAAdAAAAABAI
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-clean-blog/master/LICENSE)
