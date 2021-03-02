@@ -1,19 +1,23 @@
 # News-Blog
 
-News Blog is a blog focused on the Indian Financial sector and Indian Fintech startup news. India's financial sector has been one of the fastest growing sectors in the economy. The economy has witnessed increased private sector activity including an explosion of foreign banks, insurance companies, mutual funds, venture capital and investment institutions.The Indain Fintech startup has also been on a rapid increase and many of the startups are on the verge of becoming a unicorn. So News Blog provides us the latest news about the Indian Financial and Fintech startup sector.  
+**News Blog** is a blog focused on the Indian Financial sector and Indian Fintech startup news. India's financial sector has been one of the fastest growing sectors in the economy. The economy has witnessed increased private sector activity including an explosion of foreign banks, insurance companies, mutual funds, venture capital and investment institutions.The Indain Fintech startup has also been on a rapid increase and many of the startups are on the verge of becoming a unicorn. So News Blog provides us the latest news about the Indian Financial and Fintech startup sector.  
+***
 ## Preview
 ![News Blog Preview](static/img/Screenshot%202021-03-02%20134626.png)
 
 
-## Download and Installation
 
-To begin using this template, choose one of the following options to get started:
+***
+## Technologoies 
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/clean-blog/)
-* Install via npm: `npm i startbootstrap-clean-blog`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-clean-blog.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-clean-blog)
-
+- Python
+- Bootstrap
+- HTML
+- CSS
+- Flask
+- Jinja
+- JSON
+***
 ## Usage
 
 ### Basic Usage
